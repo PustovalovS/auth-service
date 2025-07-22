@@ -20,3 +20,7 @@ springdoc:
 
 server:
   port: 8081
+
+auth:
+  jwt:
+    secret: secret-key
